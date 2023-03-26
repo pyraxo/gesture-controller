@@ -55,7 +55,7 @@ String encdir = "";
 bool isPortOpen = false;
 
 unsigned long startMillis;
-unsigned long sbusMillis;
+unsigned long startMillis2;
 unsigned long currentMillis;
 const unsigned long period = 1000;
 
